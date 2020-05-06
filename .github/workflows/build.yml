@@ -14,4 +14,4 @@ jobs:
     - uses: actions/checkout@v1
     - name: Run a one-line script
       run: .\run.ps1
-      shell: pwsh
+      shell: powershell

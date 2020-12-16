@@ -1,0 +1,1 @@
+C:\ProgramData\chocolatey\bin\choco uninstall 7zip -y -x

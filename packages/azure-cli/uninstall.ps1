@@ -1,0 +1,1 @@
+C:\ProgramData\chocolatey\bin\choco uninstall azure-cli -y
